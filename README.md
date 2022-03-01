@@ -6,5 +6,9 @@ Formation GIT
 - Arnaud
 - Jay
 
+
 Urkraine war is going to be so sad 
+
+One more dev into the war
+
 
