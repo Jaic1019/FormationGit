@@ -4,3 +4,4 @@ Formation GIT
 
 ## participants 
 - Arnaud
+- Jay
