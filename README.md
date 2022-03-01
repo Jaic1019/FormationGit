@@ -5,3 +5,6 @@ Formation GIT
 ## participants 
 - Arnaud
 - Jay
+
+One more dev into the war
+
