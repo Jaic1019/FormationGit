@@ -5,3 +5,6 @@ Formation GIT
 ## participants 
 - Arnaud
 - Jay
+
+Urkraine war is going to be so sad 
+
